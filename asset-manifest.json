@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memersacademy/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/memersacademy/static/js/main.ac57f20a.chunk.js",
+    "main.js.map": "/memersacademy/static/js/main.ac57f20a.chunk.js.map",
+    "runtime-main.js": "/memersacademy/static/js/runtime-main.7c37cb9e.js",
+    "runtime-main.js.map": "/memersacademy/static/js/runtime-main.7c37cb9e.js.map",
+    "static/js/2.6ceaa688.chunk.js": "/memersacademy/static/js/2.6ceaa688.chunk.js",
+    "static/js/2.6ceaa688.chunk.js.map": "/memersacademy/static/js/2.6ceaa688.chunk.js.map",
+    "static/js/3.0e3a9626.chunk.js": "/memersacademy/static/js/3.0e3a9626.chunk.js",
+    "static/js/3.0e3a9626.chunk.js.map": "/memersacademy/static/js/3.0e3a9626.chunk.js.map",
+    "index.html": "/memersacademy/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/memersacademy/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6ceaa688.chunk.js.LICENSE.txt": "/memersacademy/static/js/2.6ceaa688.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c37cb9e.js",
+    "static/js/2.6ceaa688.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ac57f20a.chunk.js"
+  ]
+}
