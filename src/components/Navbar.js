@@ -7,7 +7,7 @@ export default function Navbar() {
                     boxSizing:'border-box',position:'fixed', top:'0'}}>
            <nav>
            <div style={{display:'flex', justifyContent:'space-around'}}>
-           <NavLink exact to='/' style={{textDecoration:'none'}} activeStyle={{textDecoration:'none', fontWeight:'bold', fontSize:'1.3rem'}}>
+           <NavLink exact to='/home' style={{textDecoration:'none'}} activeStyle={{textDecoration:'none', fontWeight:'bold', fontSize:'1.3rem'}}>
          Home</NavLink>
            <NavLink to='/anthem' style={{textDecoration:'none'}} activeStyle={{textDecoration:'none', fontWeight:'bold', fontSize:'1.3rem'}}>Anthem</NavLink>
            <NavLink to='/memes' style={{textDecoration:'none'}} activeStyle={{textDecoration:'none', fontWeight:'bold', fontSize:'1.3rem'}}>
